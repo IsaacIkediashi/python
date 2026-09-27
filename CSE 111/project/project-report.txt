@@ -1,0 +1,48 @@
+Student Project Report
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      .5      Watched video on 
+=============Example====================
+
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  ------------------------------------------------------
+2026-04-05      1.5     Discussed data analysis project idea and selected dataset with classmates
+2026-04-06      2.0     Researched data analysis techniques and watched videos on Matplotlib
+2026-04-07      2.5     Designed project workflow and outlined analysis steps
+2026-04-08      2.0     Wrote experimental code to load dataset and inspect its structure
+2026-04-09      2.5     Wrote main code for cleaning dataset (handling missing values and formatting)
+2026-04-10      2.0     Developed visualization code (bar charts and line graphs) using Matplotlib
+2026-04-11      2.0     Wrote multiple test functions to validate data processing functions
+2026-04-12      1.5     Debugged errors in calculations and fixed plotting issues
+2026-04-13      2.0     Improved visualizations (titles, axis labels, colors, and legends)
+2026-04-14      1.5     Refactored code into multiple functions and added comments
+2026-04-15      1.5     Final testing, verified outputs, and prepared files for submission
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
